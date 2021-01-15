@@ -1,7 +1,7 @@
 # Color_detection
 ## Brief Summary
 ### About
-Built an application through which the name of the color can be automatically obtained by double clicking on it. 
+Built an application through which the name of the color can be automatically obtained by double-clicking on it. 
 For this, used a data file that contains the color name and its values. Then, calculated the distance from each color and find the shortest one.
 
 ### The Dataset
