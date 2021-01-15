@@ -14,4 +14,6 @@ The CSV file that I used for the dataset is named as "colors.csv". The colors.cs
     (b) Colorpic.jpg – sample image for experimenting
     (c) Colors.csv – a file that contains our dataset
 
-2.) 
+2.) Worked on the detection of a particular color in an image. I have written a code which will work to detect red colour in the entire image (File name - Detect_red.py)
+
+3.) Written a code to change the brightness and contrast of images using Opencv Python (File name - Slider.py)
