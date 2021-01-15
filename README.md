@@ -7,3 +7,11 @@ For this, used a data file that contains the color name and its values. Then, ca
 ### The Dataset
 Colors are made up of 3 primary colors; red, green, and blue and I used a dataset that contains RGB values with their corresponding names. 
 The CSV file that I used for the dataset is named as "colors.csv". The colors.csv file includes 865 color names along with their RGB and hex values.
+
+### Steps
+1.) Used three files to build the application:
+    (a) Color_detection.py – main code of the project
+    (b) Colorpic.jpg – sample image for experimenting
+    (c) Colors.csv – a file that contains our dataset
+
+2.) 
